@@ -13,10 +13,10 @@
   "depends" : [
   ],
   "test-depends" : [
-    "Test",
+    "Test"
   ],
   "description" : "Simple binding to crypt(3) from unix-like systems",
   "version" : "v0.0.1",
   "auth" : "github.com:jonathanstowe",
-  "author" : [ 'Jonathan Stowe <jns+gh@gellyfish.co.uk>' ]
+  "author" : [ "Jonathan Stowe <jns+gh@gellyfish.co.uk>" ]
 }
