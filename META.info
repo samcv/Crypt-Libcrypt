@@ -9,7 +9,7 @@
      "panda"
   ],
   "provides" : {
-    "Crypt::Libcrypt" : "lib/Crypt/Libcrypt.pm6"
+    "Crypt::Libcrypt" : "lib/Crypt/Libcrypt.pm"
   },
   "depends" : [
   ],
