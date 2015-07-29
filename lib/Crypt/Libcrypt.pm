@@ -1,6 +1,6 @@
 use v6;
 
-module Crypt::Libcrypt {
+module Crypt::Libcrypt:ver<v0.0.3>:auth<github:jonathanstowe> {
 
 =begin pod
 
