@@ -103,3 +103,4 @@ SHA-512
 
     sub crypt(Str , Str  --> Str) is native('libcrypt') is export { * }
 }
+# vim: expandtab shiftwidth=4 ft=perl6
